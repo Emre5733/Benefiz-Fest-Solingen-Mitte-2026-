@@ -1,4 +1,4 @@
-# Benefiz-Fest-Solingen-Mitte-2026-
+# Benefiz-Fest-Solingen-Mitte-2026
 <!DOCTYPE html>
 <html lang="de">
 <head>
